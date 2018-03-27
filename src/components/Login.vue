@@ -1,5 +1,8 @@
 <template>
-  <input type="text">
+  <div>
+    <h1>Login</h1>
+    <v-btn color="success">Success</v-btn>
+  </div>
 </template>
 
 <script lang="ts">

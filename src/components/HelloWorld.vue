@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <button v-on:click="doSomething">Say Something</button>
+    <v-btn color="success">Success</v-btn>
   </div>
 </template>
 
